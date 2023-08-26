@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Princewill Kelechi, Im a Full Stack Developer with 4 years of professional experience, my primary stacks are PHP & Javascript, i excel at converting UI designs into high quality code both on the web and on mobile apps, i enjoy collaborating with developers to build products that are both functional and aesthetic, in my years as an engineer, ive built products with Javascript, ReactJs, NextJs, TypeScript,PHP, Laravel, React Native & Python Django.  
+My name is Princewill Kelechi, Im a Full Stack Developer with 4 years of professional experience, my primary stacks are PHP & Javascript, i excel at converting UI designs into high quality code both for the web and for mobile apps, i enjoy collaborating with developers to build products that are both functional and aesthetic, in my years as an engineer, ive built products with Javascript, ReactJs, NextJs, TypeScript,PHP, Laravel, React Native & Python Django.  
 
 ## CONTACT ME:
 
