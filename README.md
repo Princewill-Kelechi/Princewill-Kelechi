@@ -1,18 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/princewill-kelechi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/tech_princewill">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+### Hi there 👋
+My name is Princewill Kelechi, Im a Full Stack Developer with 4 years of professional experience and my primary stacks are PHP & JavaScript, i excel at converting UI designs into high quality code both on the web and on mobile apps, i enjoy collaborating with developers to build products that are both functional and aesthetic, in my years as an engineer, ive built products with Javascript, ReactJs, NextJs, TypeScript,PHP, Laravel, React Native & Python Django.  
 
 ## CONTACT ME:
 
@@ -91,9 +78,9 @@
 
 ## OPERATING SYSTEM:
 
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
 
 <!--
